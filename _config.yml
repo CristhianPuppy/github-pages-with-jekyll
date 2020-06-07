@@ -1,7 +1,7 @@
 ---
 title: "this is my blog"
 date: 2020-05-07
----
+
 title: Your awesome title, it is awesome.
 author: Cristhian Rodriguez.
 email: your-email@domain.com
@@ -16,3 +16,4 @@ twitter_username: your-twitter-handle # DO NOT include the @ character, or else 
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+---
